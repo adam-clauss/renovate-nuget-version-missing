@@ -14,4 +14,4 @@ A pull request is created to update the NUnit.Console project from the current 3
 
 ## Link to the Renovate issue or Discussion
 
-[Put your link to the Renovate issue or Discussion here.](https://github.com/renovatebot/renovate/discussions/35695)
+https://github.com/renovatebot/renovate/discussions/35695
